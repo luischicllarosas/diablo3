@@ -1,5 +1,7 @@
 # diablo3
 
+Proyecto diablo 3 de estudio.
+Buscador de jugadores de D3 permtiendo conocer sus items, rank, kills, estadisticas, etc.
 ## Project setup
 ```
 npm install
